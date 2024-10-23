@@ -2,14 +2,15 @@
 
 ### Desenvolvedor Backend Java 👀
 
-🎓 Formado em [Gestão da Tecnologia da Informação] 
-💻 Especializado em Spring Boot, Microservices, e REST APIs 
-🔗 [LinkedIn](https://www.linkedin.com/in/wilson-costa-t-i/) 📫
-📧 [Email](mailto:liw.dev.23@gmail.com) 📫
+- 🎓 Formado em [Gestão da Tecnologia da Informação] 
+- 💻 Especializado em Spring Boot, Microservices, e REST APIs 
+- 🔗 [LinkedIn](https://www.linkedin.com/in/wilson-costa-t-i/) 📫
+- 📧 [Email](mailto:liw.dev.23@gmail.com) 📫
 
 ### Projetos Destacados 💞️
 
-- 🌱 [Projeto Gerencia de Funcionario] [link](https://github.com/LiwDev/gerencia-funcionario): Spring Boot,Java,NoSQL,Mongo DB,IntelliJ IDEA .
+- 🌱 [Projeto Gerencia de Funcionario] [saiba mais](https://github.com/LiwDev/gerencia-funcionario):
+- 🌱 Tecnologias e Ferramentas: Spring Boot,Java,NoSQL,Mongo DB,IntelliJ IDEA .
 
 
 ### Tecnologias e Ferramentas 🌱
