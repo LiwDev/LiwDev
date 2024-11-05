@@ -7,6 +7,9 @@
 - 🔗 [LinkedIn](https://www.linkedin.com/in/wilson-costa-t-i/) 📫
 - 📧 [Email](mailto:liw.dev.23@gmail.com) 📫
 
+  ![LiwDev Status](https://github-readme-stats.vercel.app/api?username=LiwDev&show_icons=true)
+  [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=LiwDev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Projetos Destacados 💞️
 
 - 🌱 [Projeto Gerencia de Funcionario] [saiba mais](https://github.com/LiwDev/gerencia-funcionario):
