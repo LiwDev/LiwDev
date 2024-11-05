@@ -8,7 +8,7 @@
 - 📧 [Email](mailto:liw.dev.23@gmail.com) 📫
 
 ![LiwDev](https://github-readme-stats.vercel.app/api?username=LiwDev&layout=donut-vertical&show_icons=true&theme=radical)
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=LiwDev&layout=donut-vertical&show_icons=true&theme=radical)
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=LiwDev&layout=donut&show_icons=true&theme=radical)
 
 ### Projetos Destacados 💞️
 
