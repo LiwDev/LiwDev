@@ -7,7 +7,7 @@
 - 🔗 [LinkedIn](https://www.linkedin.com/in/wilson-costa-t-i/) 📫
 - 📧 [Email](mailto:liw.dev.23@gmail.com) 📫
 
-![LiwDev](https://github-readme-stats.vercel.app/api?username=LiwDev&layout=donut-vertical&show_icons=true&theme=radical)
+[![LiwDev](https://github-readme-stats.vercel.app/api?username=LiwDev&layout=donut-vertical&show_icons=true&theme=radical)
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=LiwDev&layout=donut-vertical&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Projetos Destacados 💞️
