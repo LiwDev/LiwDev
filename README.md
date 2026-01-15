@@ -4,8 +4,8 @@
 
 -  Formado em [Gestão da Tecnologia da Informação](https://www.adventista.edu.br/gti) 
 -  Especializado em Spring Boot, Microservices, e REST APIs 
-- **LinkedIn (https://www.linkedin.com/in/wilson-costa-t-i/) 
-- **Email (mailto:liw.dev.23@gmail.com)
+- ** [LinkedIn] (https://www.linkedin.com/in/wilson-costa-t-i/) 
+- ** [Email] (mailto:liw.dev.23@gmail.com)
 
 
 ### Projetos Destacados 
