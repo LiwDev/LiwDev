@@ -1,14 +1,14 @@
- # Wilson Costa 👋
+ # Wilson Costa 
 
-### Desenvolvedor Backend Java 👀
+### Desenvolvedor Backend Java 
 
 -  Formado em [Gestão da Tecnologia da Informação](https://www.adventista.edu.br/gti) 
 -  Especializado em Spring Boot, Microservices, e REST APIs 
 -  [LinkedIn](https://www.linkedin.com/in/wilson-costa-t-i/) 
 -  [Email](mailto:liw.dev.23@gmail.com) 📫
 
-**[LiwDev](https://github-readme-stats.vercel.app/api?username=LiwDev&layout=donut-vertical&show_icons=true&theme=cobalt)
-**[Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=LiwDev&layout=donut&show_icons=true&theme=cobalt)
+-**[LiwDev](https://github-readme-stats.vercel.app/api?username=LiwDev&layout=donut-vertical&show_icons=true&theme=cobalt)
+-**[Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=LiwDev&layout=donut&show_icons=true&theme=cobalt)
 
 ### Projetos Destacados 💞️
 
