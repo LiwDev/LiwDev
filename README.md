@@ -7,8 +7,8 @@
 -  [LinkedIn](https://www.linkedin.com/in/wilson-costa-t-i/) 
 -  [Email](mailto:liw.dev.23@gmail.com) 📫
 
-![LiwDev](https://github-readme-stats.vercel.app/api?username=LiwDev&layout=donut-vertical&show_icons=true&theme=cobalt)
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=LiwDev&layout=donut&show_icons=true&theme=cobalt)
+**[LiwDev](https://github-readme-stats.vercel.app/api?username=LiwDev&layout=donut-vertical&show_icons=true&theme=cobalt)
+**[Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=LiwDev&layout=donut&show_icons=true&theme=cobalt)
 
 ### Projetos Destacados 💞️
 
@@ -16,7 +16,7 @@
 -  Tecnologias e Ferramentas: Spring Boot,Java,NoSQL,Mongo DB,IntelliJ IDEA .
 
 
-### Tecnologias e Ferramentas 🌱
+### Tecnologias e Ferramentas 
 
 - **Linguagens**: Java, SQL
 - **Frameworks**: Spring Boot
